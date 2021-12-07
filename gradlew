@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
-
-@l0197d
-YuliyaMuraveva
-/
-aqa-2.2
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-aqa-2.2/gradlew
-@YuliyaMuraveva
-YuliyaMuraveva Changing permission of gradlew
-Latest commit a94567e on 27 Mar
- History
- 1 contributor
-Executable File  185 lines (162 sloc)  5.63 KB
-
 #!/usr/bin/env sh
 
 #
@@ -211,16 +181,3 @@ APP_ARGS=`save "$@"`
 eval set -- $DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS "\"-Dorg.gradle.appname=$APP_BASE_NAME\"" -classpath "\"$CLASSPATH\"" org.gradle.wrapper.GradleWrapperMain "$APP_ARGS"
 
 exec "$JAVACMD" "$@"
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
